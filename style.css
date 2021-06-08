@@ -1,0 +1,189 @@
+.intro{
+    
+    background-image: url("images/img1.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 55px;  
+    
+    
+}
+.onl1{
+    
+    background-image: url("images/img12.jpg");
+
+  /* Full height */
+  height: 100%;
+  
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 55px;  
+    
+    
+}
+.onl2{
+    
+    background-image: url("images/img13.jpg");
+
+  /* Full height */
+  height: 100%;
+  
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 55px;  
+    
+    
+}
+.onl3{
+    
+    background-image: url("images/img14.jpg");
+
+  /* Full height */
+  height: 100%;
+  
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 55px;  
+    
+    
+}
+.intro1{
+   padding-top: 200px;
+}
+.hcentre{
+    padding-left:600px;
+}
+.navlength{
+    width:auto;
+    margin-left: 180px;
+}
+.navlength2{
+    width:auto;
+    margin-left: 185px;
+}
+.navlength3{
+    width:500px;
+    height:40px;
+    margin-left: 20px;
+    
+    padding-left: 20px;
+}
+.ab{
+    padding-left:10px;
+    height:500px;
+    width:400px;
+}
+.card-img-top{
+    margin-left: 31px;
+    
+    height:160px;
+    width:160px;
+}
+.card-img-top1{
+    margin-left: 55px;
+    
+    height:160px;
+    width:160px;
+}
+.card-img-left{
+    margin-left: 10px;
+    
+    height:130px;
+    width:130px;
+}
+.services{
+   background-image: url("images/img7.jpg");
+
+    /* Full height */
+    height: auto;
+    width:auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 90px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+
+}
+#about{
+    padding-top: 90px;
+}
+#teacher{
+    padding-top: 90px;
+}
+#student{
+    padding-top: 90px;
+}
+#feedback{
+    height :100px;
+}
+.contact{
+    padding-top: 90px;
+}
+.footer{
+    width:100%;
+}
+#bk{
+    padding-left: 19px;
+}
+.feed{
+    
+    background-image: url("images/img9.jpg");
+
+  /* Full height */
+  height: 500px;
+  width:1200px;
+  color:white;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 55px;  
+    
+    
+}
+.text-size{
+    font-size:70px;
+}
+.carousel-item{
+    height: 400px;
+    width:1100px;
+}
+.botleft{
+    margin-top: 80px;
+    font-size:75px;
+}
+.mr{
+    margin-right: 90px;
+}
+.carousel-inner{
+    padding-left:200px;
+}
+.bgcolour{
+    background-color:rgb(122, 108, 108);
+    padding-bottom: 50px;
+    height: auto;
+}
+body, html {
+    height: 100%;
+    
+    
+  }
